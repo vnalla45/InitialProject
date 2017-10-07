@@ -15,7 +15,7 @@ public class HelloController {
     NamedParameterJdbcTemplate jdbcTemplate;
     @RequestMapping("/Naveen")
     String hello() {
-        return "Hello Worldsadfsafasdfasdfasfasfasfasdfafafsdfuhuiiiii!";
+        return "Hello World!";
     }
 //  @Data
 //  static class Result {
